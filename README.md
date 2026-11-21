@@ -12,6 +12,12 @@ result into a point cloud or a mesh, without Windows or a virtual machine.
 
 ![YProScan: a statuette scanned in Cross Lines mode, shown as a mesh](screenshot.png)
 
+## Why
+
+I moved from Windows to CachyOS, and the only way left to use my MetroY Pro was the Revopoint software on my
+M5 Pro Mac, through Rosetta. So I wrote my own Linux app, with the help of Claude. YProScan is the result: I use it
+every day, and I'm sharing it for free with anyone in the same situation.
+
 > YProScan is an independent project. It is **not affiliated with, endorsed by or supported by Revopoint**.
 > Revopoint, MetroY and Revo Metro are trademarks of their owners. Do not ask Revopoint for support about this app.
 
