@@ -155,3 +155,7 @@ It uses [Avalonia](https://avaloniaui.net/) (MIT licence) and [OpenCvSharp](http
 
 The software is provided **as is**, without warranty. Scanning involves laser light: follow the safety instructions
 that came with your scanner.
+
+## Credits
+
+Parts of YProScan were written and optimised with the help of Claude (Fable 5.2 and Opus 5.5) by Anthropic.
