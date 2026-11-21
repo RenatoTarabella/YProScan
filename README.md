@@ -62,6 +62,12 @@ Each scan mode (Cross, Parallel, Single) is calibrated once; the result is saved
 - No firmware updates, and it never will: use Revopoint's software for that.
 - Full Field scanning without markers can lose tracking on plain, flat or round objects, or if you move fast.
 
+## How it works
+
+YProScan talks to the scanner over its own Wi-Fi network, with the commands the scanner already accepts. It does not
+include, modify or require any Revopoint software or files: the camera calibration is read from your scanner each time
+you connect, and the laser calibration is measured by the app itself with the ceramic board.
+
 ## Requirements
 
 | | |
