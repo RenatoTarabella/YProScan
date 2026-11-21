@@ -1,0 +1,37 @@
+YProScan - Licence
+
+Copyright (c) 2026 Renato Tarabella. All rights reserved.
+
+1. Free use
+   You may download, install and use YProScan free of charge, on any number of computers, for any purpose,
+   including commercial work (for example scanning for customers or for your own business).
+
+2. What you may not do
+   - Sell YProScan, or include it in a product or service that you sell.
+   - Distribute modified copies of YProScan.
+   - Remove or change this licence or the copyright notices.
+   You may share the original, unmodified download with others, free of charge, together with this licence.
+
+3. No source code
+   YProScan is not open source. This licence does not give you the source code or the right to obtain it.
+
+4. Scans are yours
+   The point clouds, meshes and other files you create with YProScan belong to you. You may use them in any way.
+
+5. No warranty
+   YProScan is provided "as is", without warranty of any kind, express or implied, including fitness for a particular
+   purpose, accuracy of the measurements, or freedom from errors. The author is not liable for any damage or loss,
+   direct or indirect, arising from the use of YProScan or of the files it creates, including damage to the scanner.
+   You use it at your own risk. Check the results before relying on them.
+
+6. Not affiliated with Revopoint
+   YProScan is an independent project and is not affiliated with, endorsed by or supported by Revopoint.
+   Revopoint, MetroY and Revo Metro are trademarks of their owners and are used only to say which scanner
+   YProScan works with.
+
+7. Third-party components
+   YProScan includes third-party software under its own licences (Avalonia: MIT; OpenCvSharp: Apache 2.0; and
+   others listed in the "licenses" folder). Those licences apply to those components.
+
+8. Changes
+   Future versions may come with a different licence. The licence that came with a version applies to that version.
